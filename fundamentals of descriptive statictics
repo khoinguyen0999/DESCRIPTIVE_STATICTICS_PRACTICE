@@ -1,0 +1,18 @@
+-Kiểu dữ liệu: 
++Định tính (qualitative): categorical, nominal, ordinal.
++Định lượng (quantitative): numerical, continuous, discrete.
+-Các tham số đánh giá và đo lường:
++Mean, median, mode.
++Variance, standard deviation, range, IQR
++Percentiles, quartiles.
+-Biểu đồ cơ bản:
++Histogram: biểu diễn tần suất của một hay một nhóm giá trị. 
+            Thường dùng để đánh giá phân phối chuẩn (normal distribution),
+            độ lệch skew, độ "phì" (kurtosis) của phân phối.
++Box plot: trực quan hóa median và IQR của dữ liệu
+          giúp nhanh chóng phát hiện giá trị bất thường (outliners).
++Scatter plot: mối quan hệ giữa 2 biến số trên hệ trục Oxy qua các tọa độ
+               giúp tìm correlation, outliner, pattern, cluster
++Bar chart:so sánh giá trị giữa các biến số định tính 
++Heat map: ma trận quan hệ giữa các biến
++Line chart: biểu diễn sự biến thiên đại lượng bằng đường thẳng
