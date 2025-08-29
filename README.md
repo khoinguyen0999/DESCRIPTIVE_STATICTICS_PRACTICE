@@ -1,2 +1,1 @@
-# DESCRIPTIVE_STATICTICS_PRACTICE
-Fundamentals and practice of descriptive statictics - a basic aspect of statictics in data science
+silly and useless code for experiment and entertainment dont give a fuck to ts 
